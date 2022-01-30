@@ -1,0 +1,25 @@
+{
+  "name": "MTMC",
+  "logoURI": "https://pbs.twimg.com/media/FKXXUbjVQAER0a4?format=jpg&name=medium",
+  "keywords": [
+      "MTMC",
+      "MTMC",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x000000000000000000000000000000",
+      "name": "MTMC",
+      "symbol": "MTMC",
+      "decimals": 18,
+      "logoURI": "https://pbs.twimg.com/media/FKXXUbjVQAER0a4?format=jpg&name=medium"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
